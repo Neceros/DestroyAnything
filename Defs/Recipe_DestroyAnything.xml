@@ -46,21 +46,6 @@
         <li>Buildings</li>
       </categories>
     </fixedIngredientFilter>
-    <defaultIngredientFilter>
-      <categories>
-        <li>Foods</li>
-        <li>MeatRaw</li>
-        <li>PlantFoodRaw</li>
-        <li>AnimalProductRaw</li>
-        <li>Manufactured</li>
-        <li>Leathers</li>
-        <li>ResourcesRaw</li>
-        <li>Items</li>
-        <li>NeurotrainersPsycast</li>
-        <li>BodyParts</li>
-        <li>Buildings</li>
-      </categories>
-    </defaultIngredientFilter>
   </RecipeDef>
 
 </Defs>
